@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://anamikak990.github.io/csb-3747pt/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://anamikak990.github.io/csb-3747pt/static/js/main.355ef3c1.chunk.js",
+    "main.js.map": "https://anamikak990.github.io/csb-3747pt/static/js/main.355ef3c1.chunk.js.map",
+    "runtime-main.js": "https://anamikak990.github.io/csb-3747pt/static/js/runtime-main.3b0b2953.js",
+    "runtime-main.js.map": "https://anamikak990.github.io/csb-3747pt/static/js/runtime-main.3b0b2953.js.map",
+    "static/js/2.2e56d0bf.chunk.js": "https://anamikak990.github.io/csb-3747pt/static/js/2.2e56d0bf.chunk.js",
+    "static/js/2.2e56d0bf.chunk.js.map": "https://anamikak990.github.io/csb-3747pt/static/js/2.2e56d0bf.chunk.js.map",
+    "index.html": "https://anamikak990.github.io/csb-3747pt/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://anamikak990.github.io/csb-3747pt/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.2e56d0bf.chunk.js.LICENSE.txt": "https://anamikak990.github.io/csb-3747pt/static/js/2.2e56d0bf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b0b2953.js",
+    "static/js/2.2e56d0bf.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.355ef3c1.chunk.js"
+  ]
+}
